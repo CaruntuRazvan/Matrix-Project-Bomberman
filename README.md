@@ -20,25 +20,25 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <summary><h2><strong>Matrix animations and images</strong></h2></summary>
     <ul>
     <li>Intro message and loading game matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/bcbbbe33-0937-41a8-a2ad-7dc681b124ff" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Main menu matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/7cb2fea6-221b-429e-865f-1a46716ca53b" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Choose easy map matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/5f0aa040-af56-46fe-8d87-77a922757624" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Choose hard map matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/07fc8bd7-74f7-47ea-8e42-60e13be77ebd" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player loses matrix animation</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/d8efb862-9fa2-4226-8ec7-36cee19d41c2" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player wins matrix animation</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/163f6f3f-99a1-4d9b-94e9-2beb44be834d" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Settings menu matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/a8dc4746-ebf5-4519-b1b2-1eb308e1e803" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Highscore content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/e5c38748-bcdc-435d-9ebe-296619af41de" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>About content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/38ccd9ae-6daf-4ae0-8f8e-a310c7bdd652" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
      <li>How to play content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/4bb1d5d2-36ce-4a18-92b3-e25d8a5b0daa" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     </ul>
 </details>
 
