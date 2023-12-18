@@ -19,7 +19,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     </p>
 </details>
 <details>
-    <summary><h2><strong>Matrix animations and images</strong></h2></summary>
+    <summary><h2><strong>Matrix animations and images 💡</strong></h2></summary>
     <ul>
     <li>Intro message and loading game matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project-Bomberman/assets/115624498/9c9c4aac-1f85-4b52-85b5-44754ab77a34" alt="Text alternativ al imaginii" height="250" width="250"></p>
