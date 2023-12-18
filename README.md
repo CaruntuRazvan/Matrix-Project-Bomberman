@@ -81,7 +81,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
 <details>
     <summary><h2><strong>Electronic setup🔌</strong></h2></summary>
     <h3><strong>Setup photo 📷</strong></h3>
-    <p><img src="" alt="Text alternativ al imaginii" height="650" width="650"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project-Bomberman/assets/115624498/24522e5d-80ae-4241-88ea-00d37853761c" alt="Text alternativ al imaginii" height="650" width="650"></p>
     <h3><strong>Hardware components</strong></h3>
     <ul>
       <li>Arduino Uno</li>
