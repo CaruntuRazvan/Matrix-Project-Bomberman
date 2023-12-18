@@ -130,5 +130,5 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
    
 </details>
 <h2><strong>Demo Video 📹</strong></h2>
-<p>  Watch the demo video of the game:<a href="" target="_blank">Click here</a></p>
+<p>  Watch the demo video of the game:<a href="https://www.youtube.com/watch?v=o0SgTGHUBcw" target="_blank">Click here</a></p>
 
