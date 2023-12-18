@@ -81,7 +81,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
 <details>
     <summary><h2><strong>Electronic setup🔌</strong></h2></summary>
     <h3><strong>Setup photo 📷</strong></h3>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/3c18702f-15e1-459e-bd7f-7d16dfb635f3" alt="Text alternativ al imaginii" height="650" width="650"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="650" width="650"></p>
     <h3><strong>Hardware components</strong></h3>
     <ul>
       <li>Arduino Uno</li>
