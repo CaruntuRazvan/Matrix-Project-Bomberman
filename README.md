@@ -20,25 +20,25 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <summary><h2><strong>Matrix animations and images</strong></h2></summary>
     <ul>
     <li>Intro message and loading game matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/b230276d-bf81-4457-a442-63e97a78d234" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/c984a09f-00d2-4880-8ae0-a0eda2c0689b" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Main menu matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/353ba412-4c02-4e18-b4dd-a693cbd6931e" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/bcbbbe33-0937-41a8-a2ad-7dc681b124ff" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Choose easy map matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/9a3aef43-7509-41d6-941d-7c6eaef73a8f" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/7cb2fea6-221b-429e-865f-1a46716ca53b" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Choose hard map matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/5a83cdef-6caf-4aa0-8286-0eb3e0831520" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/5f0aa040-af56-46fe-8d87-77a922757624" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player loses matrix animation</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/724cc606-1974-4af4-a67f-cf308372ee14" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/07fc8bd7-74f7-47ea-8e42-60e13be77ebd" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player wins matrix animation</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/2ea445a2-bd5f-4547-a9bb-646d00d55232" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Settings menu matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/3ac10cc3-92bd-48bc-9cfe-d32c483b20ac" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Highscore content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/49732a8c-7581-45a9-aa29-9d185c6bf379" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>About content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/b3172d20-ac10-4b59-93f4-bb3cf89650f8" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
      <li>How to play content matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/IntroductionToRobotics/assets/115624498/212efeca-1350-4f56-8457-3f880c78af62" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     </ul>
 </details>
 
