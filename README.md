@@ -20,15 +20,15 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <summary><h2><strong>Matrix animations and images</strong></h2></summary>
     <ul>
     <li>Intro message and loading game matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/c984a09f-00d2-4880-8ae0-a0eda2c0689b" alt="Text alternativ al imaginii" height="250" width="250"></p>
-    <li>Main menu matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/bcbbbe33-0937-41a8-a2ad-7dc681b124ff" alt="Text alternativ al imaginii" height="250" width="250"></p>
-    <li>Choose easy map matrix image</li>
+    <li>Main menu matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/7cb2fea6-221b-429e-865f-1a46716ca53b" alt="Text alternativ al imaginii" height="250" width="250"></p>
-    <li>Choose hard map matrix image</li>
+    <li>Choose easy map matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/5f0aa040-af56-46fe-8d87-77a922757624" alt="Text alternativ al imaginii" height="250" width="250"></p>
-    <li>Player loses matrix animation</li>
+    <li>Choose hard map matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/07fc8bd7-74f7-47ea-8e42-60e13be77ebd" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <li>Player loses matrix animation</li>
+    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player wins matrix animation</li>
     <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Settings menu matrix image</li>
