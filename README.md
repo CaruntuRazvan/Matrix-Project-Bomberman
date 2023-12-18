@@ -26,7 +26,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <li>Choose easy map matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project-Bomberman/assets/115624498/75d50ce4-47f9-4b88-ab05-bac068536a18" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Choose hard map matrix image</li>
-    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project-Bomberman/assets/115624498/6dcce840-30dc-4a3d-95a3-0ff0888da89f" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player loses matrix animation</li>
     <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Player wins matrix animation</li>
