@@ -32,7 +32,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <li>Player wins matrix animation</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/163f6f3f-99a1-4d9b-94e9-2beb44be834d" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Settings menu matrix image</li>
-    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/daf13fee-f1de-411c-b669-a718f3729cf3" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/a8dc4746-ebf5-4519-b1b2-1eb308e1e803" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>Highscore content matrix image</li>
     <p><img src="https://github.com/CaruntuRazvan/Matrix-Project/assets/115624498/e5c38748-bcdc-435d-9ebe-296619af41de" alt="Text alternativ al imaginii" height="250" width="250"></p>
     <li>About content matrix image</li>
