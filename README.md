@@ -38,7 +38,7 @@ The player can deploy a bomb by pressing the joystick, causing the bomb to deton
     <li>About content matrix image</li>
     <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
      <li>How to play content matrix image</li>
-    <p><img src="" alt="Text alternativ al imaginii" height="250" width="250"></p>
+    <p><img src="https://github.com/CaruntuRazvan/Matrix-Project-Bomberman/assets/115624498/27fdbafc-7be0-4192-9051-79a9f8b9e108" alt="Text alternativ al imaginii" height="250" width="250"></p>
     </ul>
 </details>
 
