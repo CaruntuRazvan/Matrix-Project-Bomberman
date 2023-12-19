@@ -958,7 +958,7 @@ void drawThirdSettingsMenu(){
   if (settingsSelectedMenu == ITEM_SETTINGS_BUZZER) {
     lcd.print(" <");
   } 
-  lcd.setCursor(15, 1);
+  lcd.setCursor(15, 0);
   lcd.write(UP_ARROW);
 
   lcd.setCursor(0, 1);
